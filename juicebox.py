@@ -1,9 +1,6 @@
 # Program Title: The ArtBot - Juicebox!
 #
 # author: Deborah Wang
-# date: October 16, 2020
-# CMPT 120 -D100
-# Week 6 Assignment: Make an Interactive Drawing
 
 ###Preliminary Definitons - Imports, Variables, Functions, Design 
 
